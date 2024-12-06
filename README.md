@@ -2,9 +2,6 @@
 <h3 align="center">A passionate fullstack developer from Da Nang University of Science and Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/j5V7duchF1MAAAAd/kinako-osakana.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alutoday&label=Profile%20views&color=0e75b6&style=flat" alt="alutoday" /> </p>
-
-- 🌱 I’m currently learning **laravel**
 
 - 📫 How to reach me **anhnn1201@gmail.com**
 
